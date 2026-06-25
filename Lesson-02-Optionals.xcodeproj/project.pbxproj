@@ -23,9 +23,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0F4D4D5C2FEC33CD00A00869 /* 2_swiftHw */ = {
+		0F4D4D5C2FEC33CD00A00869 /* Lesson-02-Optionals */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = 2_swiftHw;
+			path = "Lesson-02-Optionals";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		0F4D4D512FEC33CD00A00869 = {
 			isa = PBXGroup;
 			children = (
-				0F4D4D5C2FEC33CD00A00869 /* 2_swiftHw */,
+				0F4D4D5C2FEC33CD00A00869 /* Lesson-02-Optionals */,
 				0F4D4D5B2FEC33CD00A00869 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,7 +73,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0F4D4D5C2FEC33CD00A00869 /* 2_swiftHw */,
+				0F4D4D5C2FEC33CD00A00869 /* Lesson-02-Optionals */,
 			);
 			name = 2_swiftHw;
 			packageProductDependencies = (
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0F4D4D552FEC33CD00A00869 /* Build configuration list for PBXProject "2_swiftHw" */;
+			buildConfigurationList = 0F4D4D552FEC33CD00A00869 /* Build configuration list for PBXProject "Lesson-02-Optionals" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -270,7 +270,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0F4D4D552FEC33CD00A00869 /* Build configuration list for PBXProject "2_swiftHw" */ = {
+		0F4D4D552FEC33CD00A00869 /* Build configuration list for PBXProject "Lesson-02-Optionals" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F4D4D5F2FEC33CD00A00869 /* Debug */,
